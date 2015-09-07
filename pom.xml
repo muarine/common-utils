@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.rtmap.xunlu</groupId>
-  <artifactId>xunlu</artifactId>
-  <name>xunlu</name>
+  <groupId>com.rtmap.common.util</groupId>
+  <artifactId>common-utils</artifactId>
+  <name>common-utils</name>
   <packaging>war</packaging>
-  <version>2.0.1</version>
-  <description>xunlu</description>
-  <url>http://www.rtmap.com</url>
+  <version>0.1</version>
+  <description>common-utils</description>
+  <url>http://www.muarine.com</url>
   		
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
